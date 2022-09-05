@@ -1,0 +1,73 @@
+body {
+	background-color: #5DB3E2;
+}
+
+.header {
+	margin-top: 50px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #C5E8FF;
+	width: 400px;
+	height: 430px;
+	border-radius: 2px;
+	box-shadow: 1px 1px 1px grey;
+	padding-top: 30px;
+}
+
+center img {
+	margin-top: 30px;
+	margin-bottom: 20px;
+	width: 200px;
+
+	
+}
+
+form .nama, .password {
+	height: 30px;
+	width: 300px;
+	border: solid;
+	border-radius: 5px;
+	border-width: 1px;
+	border-color: grey;
+	font-size: 12px;
+	padding-left: 5px;
+	background-color: #E6F7F8;
+}
+
+
+form .btn {
+	background-color: #5DB3E2;
+	border: none;
+	border-radius: 5px;
+	width: 250px;
+	height: 30px;
+	color: #212122;
+	font-weight: bold; 
+	font-family: cursive;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 12px;
+}
+
+p {
+	font-family: cursive;
+	font-weight: bold;
+	font-size: 13px;
+}
+
+p .sgup {
+	color: #2286CA;
+}
+
+.warning {
+	color: red;
+	float: left;
+	padding-left: 50px;
+	font-weight: initial;
+}
